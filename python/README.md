@@ -4,4 +4,4 @@ It is just a single line code to print Hello World using Python.
 
 Basically in python the code becomes less. 
 
-just a single line code to print Hello World
+
