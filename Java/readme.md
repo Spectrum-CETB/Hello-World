@@ -1,1 +1,1 @@
-This file contains a hello world programm written in **Java**
+This folder contains files that consist hello world programms written in **Java**
