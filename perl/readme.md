@@ -1,1 +1,1 @@
-This folder contains a hello world programme written in **perl** language
+This folder contains a hello world programs written in **perl** 

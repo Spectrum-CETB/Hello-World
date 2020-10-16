@@ -1,0 +1,1 @@
+This folder consists of program to print hello world in **Ruby**.
