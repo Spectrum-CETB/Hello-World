@@ -1,1 +1,1 @@
-This is a simple Hello World Program in PHP!
+This folder consists of Hello World Programs written in **PHP**.

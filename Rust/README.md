@@ -1,0 +1,1 @@
+Ths folder consists if hello-world programs written in **rust**.

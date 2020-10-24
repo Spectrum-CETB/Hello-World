@@ -1,1 +1,1 @@
-This is a simple Hello world program using C++!
+This folder consists of Hello world programs written using **C++**
